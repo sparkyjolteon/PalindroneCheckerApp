@@ -3,5 +3,4 @@ public class PalindromeCheckerApp {
         System.out.println("Welcome to Palindrome Checker Management System\n" +
                 "Version : 1.0\n" +
                 "System initalized successfully\n");
-    }
-}
+    }}
